@@ -1,7 +1,7 @@
 
   <img src="https://github.com/DiSantoss/DiSantoss/assets/99044745/f9244d10-9177-4890-aaaf-9b40876dba49" class="stats-image" style="width: 100%; height: auto;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23238E&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diego+Leandro;I'm+29+years+old;I'm+from+Rio+de+Janeiro,+Brasil;graduated+in+System+Analysis+at+Facint+and;I+study+Data+Analysis+at+EBAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23238E&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diego+Santos;I'm+29+years+old;I'm+from+Rio+de+Janeiro,+Brasil;graduated+in+System+Analysis+at+Facint+and;I+study+Data+Analysis+at+EBAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di-leandro/)
