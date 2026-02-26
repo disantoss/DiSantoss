@@ -1,7 +1,7 @@
 
   <img src="https://github.com/DiSantoss/DiSantoss/assets/99044745/f9244d10-9177-4890-aaaf-9b40876dba49" class="stats-image" style="width: 100%; height: auto;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23238E&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diego+Leandro;I'm+29+years+old;I'm+from+Rio+de+Janeiro,+Brasil;I+graduated+with+a+degree+in+System+Analysis+at+Facint+and;I+study+Data+Analysis+at+EBAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23238E&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Diego+Leandro;I'm+29+years+old;I'm+from+Rio+de+Janeiro,+Brasil;graduated+in+System+Analysis+at+Facint+and;I+study+Data+Analysis+at+EBAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di-leandro/)
@@ -15,17 +15,6 @@
 ### technologies that I deal with in my daily life
 
 <div style="display:inline_block"><br/>
- <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
- 
- <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
- <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
@@ -34,6 +23,7 @@
 <img align="center" alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+
 </div>
 <br>
 I'm a Data Analyst passionate about transforming raw data into strategic insights. Currently finishing my degree, I focus on building end-to-end data solutions—from complex ETL processes with Python to interactive storytelling through dashboards. I believe that data is the key to solving real-world problems and driving business growth.
