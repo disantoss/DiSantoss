@@ -23,13 +23,11 @@
 <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 
 </div>
-<br>
+<br />
 
-### My GitHub Stats
+<h3 align="left">My GitHub Stats 📊</h3>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=disantoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disantoss&layout=compact&theme=tokyonight"/>
-</div>
-
-<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=disantoss&show_icons=true&theme=dark&include_all_commits=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disantoss&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150" />
+</p>
