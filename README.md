@@ -22,10 +22,3 @@
 I'm a Data Analyst passionate about transforming raw data into strategic insights. Currently finishing my degree, I focus on building end-to-end data solutions—from complex ETL processes with Python to interactive storytelling through dashboards. 
 
 ---
-
-### GitHub Metrics 📊
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=disantoss&show_icons=true&theme=dark" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disantoss&layout=compact&theme=dark" alt="Langs" height="150" />
-</p>
