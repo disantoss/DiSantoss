@@ -29,28 +29,32 @@ I'm a Data Analyst passionate about transforming raw data into strategic insight
 
 ---
 
+---
+
 ## 📊 Projeto em Destaque
 
 ### 🟢 Análise do Bolsa Família
 
 <p align="left">
-  <a href="https://github.com/disantoss/analise-bolsa-familia-semantix
-">
+  <a href="https://github.com/disantoss/analise-bolsa-familia-semantix">
     <img src="https://github.com/user-attachments/assets/343647a4-eaf5-4842-9af0-08efc342544d" width="800px"/>
   </a>
 </p>
 
-Análise exploratória e construção de dashboard utilizando dados públicos do Portal da Transparência sobre o programa Bolsa Família.
+Análise exploratória e construção de dashboard a partir de dados públicos do Portal da Transparência sobre o programa Bolsa Família.
 
 **Stack utilizada:**
 - Python (ETL e tratamento de dados)
 - SQL (consultas analíticas)
-- Power BI (dashboard interativo)
+- Looker Studio (dashboard interativo)
 
-**Objetivo do projeto:**
+**Objetivo do projeto:**  
 Transformar dados brutos em indicadores estratégicos para análise de distribuição regional, volume de beneficiários e valores repassados.
 
-🔗 **Acesse o repositório:**  
-https://github.com/disantoss/analise-bolsa-familia-semantix
+🔗 **Repositório no GitHub:**  
+https://github.com/disantoss/analise-bolsa-familia-semantix  
+
+📊 **Dashboard publicado (interativo):**  
+https://lookerstudio.google.com/reporting/961784d0-5c71-4e5b-a5a6-fa90d4b9067b
 
 ---
