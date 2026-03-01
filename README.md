@@ -26,5 +26,4 @@
 <br>
 I'm a Data Analyst passionate about transforming raw data into strategic insights. Currently finishing my degree, I focus on building end-to-end data solutions—from complex ETL processes with Python to interactive storytelling through dashboards. I believe that data is the key to solving real-world problems and driving business growth.
 <br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=disantoss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=disantoss&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
