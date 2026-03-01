@@ -22,6 +22,6 @@
 I'm a Data Analyst passionate about transforming raw data into strategic insights. Currently finishing my degree, I focus on building end-to-end data solutions—from complex ETL processes with Python to interactive storytelling through dashboards. 
 
 ---
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=disantoss&theme=tokyonight" />
 </p>
