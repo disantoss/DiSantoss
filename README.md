@@ -48,7 +48,7 @@ Desenvolvimento de um motor de decisão utilizando Machine Learning para prever 
 - **Looker Studio** (Dashboard Interativo de Risco)
 
 🔗 **Repositório:** [analise-credito-bancario-kaggle](https://github.com/disantoss/analise-credito-bancario-kaggle)  
-📊 **Dashboard:** [Acesse aqui](COLOQUE_O_LINK_DO_LOOKER_NOVO_AQUI)
+📊 **Dashboard:** [Acesse aqui](https://lookerstudio.google.com/reporting/1531fc16-f459-4f33-90fc-f0e5469eb261)
 
 ---
 
