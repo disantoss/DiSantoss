@@ -28,35 +28,48 @@ I'm a Data Analyst passionate about transforming raw data into strategic insight
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=disantoss&theme=tokyonight" />
 </p>
 
+---
+
+## 📊 Projetos em Destaque
+
+### 🔵 1. Credit Scoring: Previsão de Risco de Crédito
+<p align="left">
+  <a href="https://github.com/disantoss/analise-credito-bancario-kaggle">
+    <img src="COLOQUE_A_URL_DA_IMAGEM_DO_DASHBOARD_NOVO_AQUI" width="800px"/>
+  </a>
+</p>
+
+Desenvolvimento de um motor de decisão utilizando Machine Learning para prever a probabilidade de inadimplência em empréstimos bancários, transformando dados brutos em indicadores de risco.
+
+**Stack utilizada:**
+- **Python & Scikit-Learn** (Modelagem de Machine Learning - Random Forest)
+- **Pandas** (Tratamento de Outliers e ETL)
+- **Looker Studio** (Dashboard Interativo de Risco)
+
+🔗 **Repositório:** [analise-credito-bancario-kaggle](https://github.com/disantoss/analise-credito-bancario-kaggle)  
+📊 **Dashboard:** [Acesse aqui](COLOQUE_O_LINK_DO_LOOKER_NOVO_AQUI)
 
 ---
 
----
-
-## 📊 Projeto em Destaque
-
-### 🟢 Análise do Bolsa Família
-
+### 🟢 2. Análise do Bolsa Família
 <p align="left">
   <a href="https://github.com/disantoss/analise-bolsa-familia-semantix">
     <img src="https://github.com/user-attachments/assets/343647a4-eaf5-4842-9af0-08efc342544d" width="800px"/>
   </a>
 </p>
 
-Análise exploratória e construção de dashboard a partir de dados públicos do Portal da Transparência sobre o programa Bolsa Família.
+Análise exploratória a partir de dados públicos do Portal da Transparência, focada em entender a eficiência da distribuição de renda e investimento per capita.
 
 **Stack utilizada:**
-- Python (ETL e tratamento de dados)
-- SQL (consultas analíticas)
-- Looker Studio (dashboard interativo)
+- Python (ETL e processamento em escala)
+- SQL (Consultas analíticas)
+- Looker Studio (Storytelling de dados)
 
-**Objetivo do projeto:**  
-Transformar dados brutos em indicadores estratégicos para análise de distribuição regional, volume de beneficiários e valores repassados.
-
-🔗 **Repositório no GitHub:**  
-https://github.com/disantoss/analise-bolsa-familia-semantix  
-
-📊 **Dashboard publicado (interativo):**  
-https://lookerstudio.google.com/reporting/961784d0-5c71-4e5b-a5a6-fa90d4b9067b
+🔗 **Repositório:** [analise-bolsa-familia-semantix](https://github.com/disantoss/analise-bolsa-familia-semantix)  
+📊 **Dashboard:** [Acesse aqui](https://lookerstudio.google.com/reporting/961784d0-5c71-4e5b-a5a6-fa90d4b9067b)
 
 ---
+
+## 📩 Contato
+- **LinkedIn:** [https://www.linkedin.com/in/dados-disantos/](https://www.linkedin.com/in/dados-disantos/)
+- **Email:** d.96leandro@gmail.com
