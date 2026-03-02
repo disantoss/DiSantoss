@@ -35,7 +35,8 @@ I'm a Data Analyst passionate about transforming raw data into strategic insight
 ### 🔵 1. Credit Scoring: Previsão de Risco de Crédito
 <p align="left">
   <a href="https://github.com/disantoss/analise-credito-bancario-kaggle">
-    <img src="COLOQUE_A_URL_DA_IMAGEM_DO_DASHBOARD_NOVO_AQUI" width="800px"/>
+   <img width="800" alt="image" src="https://github.com/user-attachments/assets/cdbc6d8b-0a30-4126-8f4b-8fecdfa2a21d" />
+
   </a>
 </p>
 
