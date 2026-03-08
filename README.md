@@ -55,7 +55,8 @@ Desenvolvimento de um motor de decisão utilizando Machine Learning para prever 
 ### 🟢 2. Análise do Bolsa Família
 <p align="left">
   <a href="https://github.com/disantoss/analise-bolsa-familia-semantix">
-    <img src="https://github.com/user-attachments/assets/343647a4-eaf5-4842-9af0-08efc342544d" width="800px"/>
+    <img width="900" alt="image" src="https://github.com/user-attachments/assets/72c469cd-bf68-40ff-99b3-cd9df1db46c8" />
+
   </a>
 </p>
 
